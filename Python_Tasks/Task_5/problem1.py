@@ -1,4 +1,4 @@
-# Find the Runner-Up Score! 
+# Problem 1 : Find the Runner-Up Score! 
 # https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem
 
 
